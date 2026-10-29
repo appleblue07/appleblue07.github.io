@@ -10,3 +10,4 @@ plugins:
 
 header_pages:
   - categories.md
+  - about.md
