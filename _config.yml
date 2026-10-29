@@ -9,5 +9,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - categories.md
+minima:
+  nav_pages:
+    - categories.md
