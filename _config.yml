@@ -1,7 +1,13 @@
-title: "나의 공부 블로그"
-description: "공부 기록"
+
+title: "공부 기록"
+description: "알고리즘, C++, 그리고 공부하면서 배운 내용을 기록합니다."
+url: "https://appleblue07.github.io"
+baseurl: ""
+
 theme: minima
-header_pages:
-  - categories.md
+
 plugins:
   - jekyll-feed
+
+header_pages:
+  - categories.md
