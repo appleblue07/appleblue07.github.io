@@ -8,7 +8,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  nav_pages:
-    - categories.md
-    - about.md
+header_pages:
+  - categories.md
+  - about.md
