@@ -1,0 +1,6 @@
+
+title: "그냥 공부하는 블로그"
+description: "대학교 공부 과정을 기록합니다."
+theme: minima
+plugins:
+  - jekyll-feed
